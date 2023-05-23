@@ -7,3 +7,7 @@ components:
 -continuous servo motor (5)
 -10k ohm resistor (5)
 -wires, breadboard, batteries, and switch
+
+
+
+science fair 2023, ahmed ayman
